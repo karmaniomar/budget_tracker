@@ -1,4 +1,3 @@
-```md
 # 🏦 Budget Tracker
 
 A **command-line budget tracking application** built using Python and SQLite3. This tool allows users to **manage expenses, track income, set budgets, and monitor financial goals** in a structured and interactive way.
